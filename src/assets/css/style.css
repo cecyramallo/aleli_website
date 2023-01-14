@@ -10,18 +10,22 @@
   background-color: #F8F5FB;
 }
 
-.text-blue {
-  color: #00314B;
+.text-black {
+  color: #000000;
+}
+
+.center {
+  text-align: center;
 }
 
 /* Font sizes and weights */
 
-.font-size-16 {
-  font-size: 16px;
+.font-size-18 {
+  font-size: 18px;
 }
 
-.font-size-22 {
-  font-size: 22px;
+.font-size-20 {
+  font-size: 20px;
 }
 
 .font-size-30 {
@@ -30,6 +34,10 @@
 
 .font-size-40 {
   font-size: 40px;
+}
+
+.font-size-50 {
+  font-size: 50px;
 }
 
 .font-weight-500 {
