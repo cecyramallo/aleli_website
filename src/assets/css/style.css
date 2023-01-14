@@ -1,0 +1,61 @@
+/* Fonts */
+
+* {
+  font-family: 'Nunito', sans-serif;
+}
+
+/* Background and text colors */
+
+.bg-gray-nav {
+  background-color: #F8F5FB;
+}
+
+.text-blue {
+  color: #00314B;
+}
+
+/* Font sizes and weights */
+
+.font-size-16 {
+  font-size: 16px;
+}
+
+.font-size-22 {
+  font-size: 22px;
+}
+
+.font-size-30 {
+  font-size: 30px;
+}
+
+.font-size-40 {
+  font-size: 40px;
+}
+
+.font-weight-500 {
+  font-weight: 500;
+}
+
+.font-weight-700 {
+  font-weight: 700;
+}
+
+/* Buttons */
+
+.trial-button {
+  background: #E696FF;
+  border: none;
+  border-radius: 30px;
+  color: #00324B;
+  font-family: 'Nunito', sans-serif;
+  height: 53px;
+  width: 207px;
+}
+
+.trial-button:hover {
+  background-color: #FE46DB;
+}
+
+.trial-button:focus {
+  outline: none;
+}
