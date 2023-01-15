@@ -92,3 +92,15 @@
   margin-left: 2px;
   animation: blink 1s infinite;
 }
+
+/* Footer */
+
+footer {
+  background-color: #E696FF;
+}
+
+.icon {
+  color: #000000;
+  font-size: 30px;
+  width: 30px;
+}
