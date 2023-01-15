@@ -52,7 +52,7 @@
   font-weight: 700;
 }
 
-/* Buttons */
+/* Button */
 
 .trial-button {
   background: #E696FF;
@@ -76,4 +76,19 @@
   background-image: url("../images/pink_background.svg");
   background-repeat: round;
   background-size: cover;
+}
+
+/* Typed effect */
+
+.typed-text {
+  color: #000000;
+}
+
+.cursor {
+  display: inline-block;
+  width: 3px;
+  background-color: #000;
+  opacity: 70%;
+  margin-left: 2px;
+  animation: blink 1s infinite;
 }
