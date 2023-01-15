@@ -40,6 +40,10 @@
   font-size: 50px;
 }
 
+.font-weight-400 {
+  font-weight: 400;
+}
+
 .font-weight-500 {
   font-weight: 500;
 }
@@ -54,7 +58,7 @@
   background: #E696FF;
   border: none;
   border-radius: 30px;
-  color: #00324B;
+  color: #000000;
   font-family: 'Nunito', sans-serif;
   height: 53px;
   width: 207px;
@@ -66,4 +70,10 @@
 
 .trial-button:focus {
   outline: none;
+}
+
+.pink {
+  background-image: url("../images/pink_background.svg");
+  background-repeat: round;
+  background-size: cover;
 }
