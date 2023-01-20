@@ -28,6 +28,10 @@
   font-size: 20px;
 }
 
+.font-size-24 {
+  font-size: 24px;
+}
+
 .font-size-30 {
   font-size: 30px;
 }
@@ -99,8 +103,6 @@ footer {
   background-color: #E696FF;
 }
 
-.icon {
-  color: #000000;
-  font-size: 30px;
-  width: 30px;
+.social-link:hover {
+  text-decoration: none;
 }
